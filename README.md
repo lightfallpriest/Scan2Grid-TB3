@@ -358,7 +358,7 @@ It is best viewed as a strong nano-project in robotics perception and a clean st
 
 This work was completed in an academic context as part of **Dr. Nakul Gopalan’s CSE 598: Perception in Robotics** course at **Arizona State University**. This repository reframes that work as a compact robotics work while preserving the underlying technical ideas and implementation structure.
 
-## 11. License
+## 11. LICENSE
 
 > **MIT License**
 
